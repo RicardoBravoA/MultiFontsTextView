@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiFontsTextView</string>
+    <string name="action_settings">Settings</string>
+    <string name="woz">Woz</string>
+</resources>
